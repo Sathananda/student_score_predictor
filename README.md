@@ -126,11 +126,11 @@ student_score_predictor/
 
 ## Key Concepts Covered
 
-1. **Linear Regression:** Understanding the linear relationship between features and target
-2. **Model Training:** Fitting the model to training data
-3. **Predictions:** Making predictions on new data
-4. **Visualization:** Plotting actual vs predicted values
-5. **Multi-feature Models:** Using multiple features for better predictions
+- **Linear Regression:** Understanding the linear relationship between features and target
+- **Model Training:** Fitting the model to training data
+- **Predictions:** Making predictions on new data
+- **Visualization:** Plotting actual vs predicted values
+- **Multi-feature Models:** Using multiple features for better predictions
 
 ---
 
