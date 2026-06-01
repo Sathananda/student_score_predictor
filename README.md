@@ -154,11 +154,11 @@ This is an educational project using mock data for demonstration purposes. Real-
 
 ## Future Enhancements
 
-- [ ] Add more features (previous scores, class participation, etc.)
-- [ ] Implement cross-validation
-- [ ] Add model evaluation metrics (R² score, RMSE)
-- [ ] Create a web interface (Flask/Streamlit)
-- [ ] Add data persistence (save/load models)
-- [ ] Implement polynomial regression for comparison
+- Add more features (previous scores, class participation, etc.)
+- Implement cross-validation
+- Add model evaluation metrics (R² score, RMSE)
+- Create a web interface (Flask/Streamlit)
+- Add data persistence (save/load models)
+- Implement polynomial regression for comparison
 
 Happy Learning!
