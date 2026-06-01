@@ -1,4 +1,4 @@
-# Student Exam Score Predictor 📊
+# Student Exam Score Predictor 
 
 A Machine Learning project that predicts student exam scores based on study hours and attendance using **Linear Regression**.
 
@@ -7,19 +7,19 @@ A Machine Learning project that predicts student exam scores based on study hour
 **Goal:** Predict a student's exam score based on the number of hours they studied using Linear Regression.
 
 This project demonstrates:
-- ✅ Simple Linear Regression (Single Feature)
-- ✅ Multiple Linear Regression (Multiple Features)
-- ✅ Data Visualization
-- ✅ Model Training and Evaluation
+- Simple Linear Regression (Single Feature)
+- Multiple Linear Regression (Multiple Features)
+- Data Visualization
+- Model Training and Evaluation
 
 ---
 
 ## Features
 
-### 1. **Simple Model** (Hours Studied Only)
+### 1. **Simple Model** (Hours Studied)
 - Input: Hours studied
 - Output: Predicted exam score
-- Learns the relationship between study hours and exam scores
+- Learns the relationship between hours of study and exam scores
 
 ### 2. **Multi-Feature Model** (Hours Studied + Attendance)
 - Input: Hours studied + Attendance percentage
@@ -106,7 +106,7 @@ student_score_predictor/
 - **Formula:** Score = 8.42 × Hours + 4.77
 
 ### Multi-Feature Model (Hours + Attendance)
-- Uses both study hours and attendance rate
+- Uses both hours of study and attendance rate
 - Provides more accurate predictions
 
 ### Example Predictions
