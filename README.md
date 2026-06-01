@@ -161,10 +161,4 @@ This is an educational project using mock data for demonstration purposes. Real-
 - [ ] Add data persistence (save/load models)
 - [ ] Implement polynomial regression for comparison
 
----
-
-## Contact & Support
-
-For questions or suggestions, please open an issue on GitHub.
-
-Happy Learning! 🚀
+Happy Learning!
